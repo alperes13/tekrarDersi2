@@ -5,7 +5,7 @@ public class Merhaba2 {
 
 	int a = 30;
 	int b = 40;
-
-	System.out.println(a+b);
+	int c = 50;
+	System.out.println(a+b-c);
     }
 }
